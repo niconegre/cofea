@@ -5,10 +5,6 @@ body {
 }
 h1, h2, h3 {
     color: rgb(145, 36, 36);
-    margin-left: 25px;
-}
-p {
-    margin-left: 20px;
 }
 ul {
     list-style: url("images/tiny-coffee-cup.gif");
@@ -74,7 +70,6 @@ header h1 {
 }
 footer {
     margin: 40px 0;
-    clear: both;
 }
 footer nav a:link , footer nav a:visited {
 color: gray;
